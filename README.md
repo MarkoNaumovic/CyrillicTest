@@ -1,11 +1,11 @@
 # CyrillicTest
 Testing Kupujem Prodajem
 
--System Requirements:	"1.8 GHz or faster processor. Quad-core or better recommended
- 2 GB of RAM; 8 GB of RAM recommended (2.5 GB minimum if running on a virtual machine)
- Hard disk space: Minimum of 800MB up to 210 GB of available space, depending on features installed; typical installations require 20-50 GB of free space.
- Hard disk speed: to improve performance, install Windows and Visual Studio on a solid state drive (SSD).
- Video card that supports a minimum display resolution of 720p (1280 by 720); Visual Studio will work best at a resolution of WXGA (1366 by 768) or higher.".
+- System Requirements:	"1.8 GHz or faster processor. Quad-core or better recommended
+  2 GB of RAM; 8 GB of RAM recommended (2.5 GB minimum if running on a virtual machine)
+  Hard disk space: Minimum of 800MB up to 210 GB of available space, depending on features installed; typical installations require 20-50 GB of free space.
+  Hard disk speed: to improve performance, install Windows and Visual Studio on a solid state drive (SSD).
+  Video card that supports a minimum display resolution of 720p (1280 by 720); Visual Studio will work best at a resolution of WXGA (1366 by 768) or higher.".
 
 - Environment:	Visual Studio 2019
 - Template:	Unit Test
